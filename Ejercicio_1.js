@@ -1,1 +1,0 @@
-var element = document.createElement(tagName, [options]);
